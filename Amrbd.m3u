@@ -1,305 +1,305 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oNT3BuT.png" group-title="BD SPORTS", GP:Amr Gazi TV HD
-http://stream.amrbd.com:8082/Gazi-Tv/INdex.m3u8
+http://stream.amrbd.com:8082/Gazi-Tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PhIvHMA.png" group-title="BD SPORTS", GP:Amr Tsports HD
-http://stream.amrbd.com:8082/Local-Sports/INdex.m3u8
+http://stream.amrbd.com:8082/Local-Sports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD BANGLA", GP:Amr ANANDO TV
-http://stream.amrbd.com:8082/anandotv/INdex.m3u8
+http://stream.amrbd.com:8082/anandotv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="BD BANGLA", GP:Amr ATN BANGLA
-http://stream.amrbd.com:8082/ATN-Bangla/INdex.m3u8
+http://stream.amrbd.com:8082/ATN-Bangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HX8SSDA.png" group-title="BD BANGLA", GP:Amr BANGLAVISION
-http://stream.amrbd.com:8082/BanglaVision/INdex.m3u8
+http://stream.amrbd.com:8082/BanglaVision/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kDmkexe.png" group-title="BD BANGLA", GP:Amr BIJOY TV
-http://stream.amrbd.com:8082/BijoyTv/INdex.m3u8
+http://stream.amrbd.com:8082/BijoyTv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pTJSGtj.png" group-title="BD BANGLA", GP:Amr BOISHAKHI TV
-http://stream.amrbd.com:8082/Boishakhi/INdex.m3u8
+http://stream.amrbd.com:8082/Boishakhi/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD BANGLA", GP:Amr CHANNEL I
-http://stream.amrbd.com:8082/Channel-i/INdex.m3u8
+http://stream.amrbd.com:8082/Channel-i/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kFqOMtx.png" group-title="BD BANGLA", GP:Amr EKUSEY TV
-http://stream.amrbd.com:8082/Ekushey-TV/INdex.m3u8
+http://stream.amrbd.com:8082/Ekushey-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="BD BANGLA", GP:Amr GAAN BANGLA
-http://stream.amrbd.com:8082/GaanBangla/INdex.m3u8
+http://stream.amrbd.com:8082/GaanBangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="BD BANGLA", GP:Amr MOHONA TV
-http://stream.amrbd.com:8082/MohonaTV/INdex.m3u8
+http://stream.amrbd.com:8082/MohonaTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWuzjbg.png" group-title="BD BANGLA", GP:Amr MY TV
-http://stream.amrbd.com:8082/MyTV/INdex.m3u8
+http://stream.amrbd.com:8082/MyTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2cpHJKq.png" group-title="BD BANGLA", GP:Amr NAGORIK TV
-http://stream.amrbd.com:8082/Nagorik-TV/INdex.m3u8
+http://stream.amrbd.com:8082/Nagorik-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3usnOla.png" group-title="BD BANGLA", GP:Amr NTV BD
-http://stream.amrbd.com:8082/Ntv/INdex.m3u8
+http://stream.amrbd.com:8082/Ntv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yi5p51T.png" group-title="BD BANGLA", GP:Amr RTV HD
-http://stream.amrbd.com:8082/RTV/INdex.m3u8
+http://stream.amrbd.com:8082/RTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fraEjzm.png" group-title="BD BANGLA", GP:Amr SA TV
-http://stream.amrbd.com:8082/SATV/INdex.m3u8
+http://stream.amrbd.com:8082/SATV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/v9PqrCG.png" group-title="BD BANGLA", GP:Amr ATN NEW
-http://stream.amrbd.com:8082/Atn-News/INdex.m3u8
+http://stream.amrbd.com:8082/Atn-News/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MmhxR5E.png" group-title="BD BANGLA", GP:Amr CHANNEL 24
-http://stream.amrbd.com:8082/Channel24/INdex.m3u8
+http://stream.amrbd.com:8082/Channel24/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/djAX8Rc.png" group-title="BD BANGLA", GP:Amr DBC NEWS
-http://stream.amrbd.com:8082/DBC-NEWS/INdex.m3u8
+http://stream.amrbd.com:8082/DBC-NEWS/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i8T9qQs.png" group-title="BD BANGLA", GP:Amr EKATTOR TV
-http://stream.amrbd.com:8082/Ekattor-tv/INdex.m3u8
+http://stream.amrbd.com:8082/Ekattor-tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FxsW4XI.png" group-title="BD BANGLA", GP:Amr NEWS 24
-http://stream.amrbd.com:8082/News24bd/INdex.m3u8
+http://stream.amrbd.com:8082/News24bd/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/18m3T6f.png" group-title="BD BANGLA", GP:Amr SOMOY TV
-http://stream.amrbd.com:8082/Somoy-TV/INdex.m3u8
+http://stream.amrbd.com:8082/Somoy-TV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png" group-title="IN: BANGLA", GP:Amr Sony Aath
-http://stream.amrbd.com:8082/Sonyaath/INdex.m3u8
+http://stream.amrbd.com:8082/Sonyaath/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="IN: BANGLA", GP:Amr Zee Bangla
-http://stream.amrbd.com:8082/ZeeBanglaHD/INdex.m3u8
+http://stream.amrbd.com:8082/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="IN: BANGLA", GP:Amr Star Jalsha HD
-http://stream.amrbd.com:8082/Star-Jalsha/INdex.m3u8
+http://stream.amrbd.com:8082/Star-Jalsha/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="IN: BANGLA", GP:Amr Colors Bangla HD
-http://stream.amrbd.com:8082/colorsbangla/INdex.m3u8
+http://stream.amrbd.com:8082/colorsbangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="IN: CINEMA", GP:Amr Jalsha Movies HD
-http://stream.amrbd.com:8082/Jalshamovies/INdex.m3u8
+http://stream.amrbd.com:8082/Jalshamovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SY46rYQ.png" group-title="IN: CINEMA", GP:Amr Zee Bangla CINema HD
-http://stream.amrbd.com:8082/ZeeBanglacINema/INdex.m3u8
+http://stream.amrbd.com:8082/ZeeBanglacINema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="IN: HINDI", GP:Amr Sony HD
-http://stream.amrbd.com:8082/SonyTVHD/INdex.m3u8
+http://stream.amrbd.com:8082/SonyTVHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="IN: HINDI", GP:Amr Colors HD
-http://stream.amrbd.com:8082/colorsINdia/INdex.m3u8
+http://stream.amrbd.com:8082/colorsINdia/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="IN: HINDI", GP:Amr Sony Sab HD
-http://stream.amrbd.com:8082/Sony_Sab/INdex.m3u8
+http://stream.amrbd.com:8082/Sony_Sab/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="IN: BOLLYWOOD", GP:Amr Sony Max HD
-http://stream.amrbd.com:8082/Sony-Max/INdex.m3u8
+http://stream.amrbd.com:8082/Sony-Max/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="IN: BOLLYWOOD", GP:Amr Star Gold HD
-http://stream.amrbd.com:8082/StarGold/INdex.m3u8
+http://stream.amrbd.com:8082/StarGold/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ldXaLJK.png" group-title="IN: BOLLYWOOD", GP:Amr Zee CINema HD
-http://stream.amrbd.com:8082/ZeeCINemaHD/INdex.m3u8
+http://stream.amrbd.com:8082/ZeeCINemaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gocnao7.png" group-title="IN: BOLLYWOOD", GP:Amr Bflix Movies
-http://stream.amrbd.com:8082/bflix/INdex.m3u8
+http://stream.amrbd.com:8082/bflix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p2Ke0dz.png" group-title="IN: BOLLYWOOD", GP:Amr Wow CINema
-http://stream.amrbd.com:8082/Wow-CINema/INdex.m3u8
+http://stream.amrbd.com:8082/Wow-CINema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3i2U8HH.png" group-title="IN: HOLLYWOOD", GP:Amr Sony Pix HD
-http://stream.amrbd.com:8082/SonyPix/INdex.m3u8
+http://stream.amrbd.com:8082/SonyPix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png" group-title="IN: HOLLYWOOD", GP:Amr Movies Now HD
-http://stream.amrbd.com:8082/Movies_Now_2/INdex.m3u8
+http://stream.amrbd.com:8082/Movies_Now_2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6a7pWRE.png" group-title="IN: SPORTS", GP:Amr Sony Six HD
-http://stream.amrbd.com:8082/SonySix/INdex.m3u8
+http://stream.amrbd.com:8082/SonySix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9wyiDjY.png" group-title="IN: SPORTS", GP:Amr SonyTen-1HD
-http://stream.amrbd.com:8082/Ten1/INdex.m3u8
+http://stream.amrbd.com:8082/Ten1/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OekeCcA.png" group-title="IN: SPORTS", GP:Amr SonyTen-2HD
-http://stream.amrbd.com:8082/Ten2/INdex.m3u8
+http://stream.amrbd.com:8082/Ten2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NBqjr3L.png" group-title="IN: SPORTS", GP:Amr SonyTen-3HD
-http://stream.amrbd.com:8082/Ten3/INdex.m3u8
+http://stream.amrbd.com:8082/Ten3/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C7sWOQr.png" group-title="IN: SPORTS", GP:Amr Adsports 1 HD
-http://stream.amrbd.com:8082/Adsports1/INdex.m3u8
+http://stream.amrbd.com:8082/Adsports1/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mLgtV9E.png" group-title="IN: SPORTS", GP:Amr Adsports 2 HD
-http://stream.amrbd.com:8082/Adsports2/INdex.m3u8
+http://stream.amrbd.com:8082/Adsports2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0WJLtkb.png" group-title="IN: SPORTS", GP:Amr Adsports 3 HD
-http://stream.amrbd.com:8082/Adsports3/INdex.m3u8
+http://stream.amrbd.com:8082/Adsports3/video.m3u8
 ===================================================================================================
 
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oNT3BuT.png" group-title="BD SPORTS", GP:Amr Gazi TV HD
-http://12.1.1.1:8082/Gazi-Tv/INdex.m3u8
+http://12.1.1.1:8082/Gazi-Tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PhIvHMA.png" group-title="BD SPORTS", GP:Amr Tsports HD
-http://12.1.1.1:8082/Local-Sports/INdex.m3u8
+http://12.1.1.1:8082/Local-Sports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD BANGLA", GP:Amr ANANDO TV
-http://12.1.1.1:8082/anandotv/INdex.m3u8
+http://12.1.1.1:8082/anandotv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="BD BANGLA", GP:Amr ATN BANGLA
-http://12.1.1.1:8082/ATN-Bangla/INdex.m3u8
+http://12.1.1.1:8082/ATN-Bangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HX8SSDA.png" group-title="BD BANGLA", GP:Amr BANGLAVISION
-http://12.1.1.1:8082/BanglaVision/INdex.m3u8
+http://12.1.1.1:8082/BanglaVision/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kDmkexe.png" group-title="BD BANGLA", GP:Amr BIJOY TV
-http://12.1.1.1:8082/BijoyTv/INdex.m3u8
+http://12.1.1.1:8082/BijoyTv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pTJSGtj.png" group-title="BD BANGLA", GP:Amr BOISHAKHI TV
-http://12.1.1.1:8082/Boishakhi/INdex.m3u8
+http://12.1.1.1:8082/Boishakhi/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD BANGLA", GP:Amr CHANNEL I
-http://12.1.1.1:8082/Channel-i/INdex.m3u8
+http://12.1.1.1:8082/Channel-i/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kFqOMtx.png" group-title="BD BANGLA", GP:Amr EKUSEY TV
-http://12.1.1.1:8082/Ekushey-TV/INdex.m3u8
+http://12.1.1.1:8082/Ekushey-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="BD BANGLA", GP:Amr GAAN BANGLA
-http://12.1.1.1:8082/GaanBangla/INdex.m3u8
+http://12.1.1.1:8082/GaanBangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="BD BANGLA", GP:Amr MOHONA TV
-http://12.1.1.1:8082/MohonaTV/INdex.m3u8
+http://12.1.1.1:8082/MohonaTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWuzjbg.png" group-title="BD BANGLA", GP:Amr MY TV
-http://12.1.1.1:8082/MyTV/INdex.m3u8
+http://12.1.1.1:8082/MyTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2cpHJKq.png" group-title="BD BANGLA", GP:Amr NAGORIK TV
-http://12.1.1.1:8082/Nagorik-TV/INdex.m3u8
+http://12.1.1.1:8082/Nagorik-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3usnOla.png" group-title="BD BANGLA", GP:Amr NTV BD
-http://12.1.1.1:8082/Ntv/INdex.m3u8
+http://12.1.1.1:8082/Ntv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yi5p51T.png" group-title="BD BANGLA", GP:Amr RTV HD
-http://12.1.1.1:8082/RTV/INdex.m3u8
+http://12.1.1.1:8082/RTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fraEjzm.png" group-title="BD BANGLA", GP:Amr SA TV
-http://12.1.1.1:8082/SATV/INdex.m3u8
+http://12.1.1.1:8082/SATV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/v9PqrCG.png" group-title="BD BANGLA", GP:Amr ATN NEW
-http://12.1.1.1:8082/Atn-News/INdex.m3u8
+http://12.1.1.1:8082/Atn-News/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MmhxR5E.png" group-title="BD BANGLA", GP:Amr CHANNEL 24
-http://12.1.1.1:8082/Channel24/INdex.m3u8
+http://12.1.1.1:8082/Channel24/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/djAX8Rc.png" group-title="BD BANGLA", GP:Amr DBC NEWS
-http://12.1.1.1:8082/DBC-NEWS/INdex.m3u8
+http://12.1.1.1:8082/DBC-NEWS/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i8T9qQs.png" group-title="BD BANGLA", GP:Amr EKATTOR TV
-http://12.1.1.1:8082/Ekattor-tv/INdex.m3u8
+http://12.1.1.1:8082/Ekattor-tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FxsW4XI.png" group-title="BD BANGLA", GP:Amr NEWS 24
-http://12.1.1.1:8082/News24bd/INdex.m3u8
+http://12.1.1.1:8082/News24bd/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/18m3T6f.png" group-title="BD BANGLA", GP:Amr SOMOY TV
-http://12.1.1.1:8082/Somoy-TV/INdex.m3u8
+http://12.1.1.1:8082/Somoy-TV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png" group-title="IN: BANGLA", GP:Amr Sony Aath
-http://12.1.1.1:8082/Sonyaath/INdex.m3u8
+http://12.1.1.1:8082/Sonyaath/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="IN: BANGLA", GP:Amr Zee Bangla
-http://12.1.1.1:8082/ZeeBanglaHD/INdex.m3u8
+http://12.1.1.1:8082/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="IN: BANGLA", GP:Amr Star Jalsha HD
-http://12.1.1.1:8082/Star-Jalsha/INdex.m3u8
+http://12.1.1.1:8082/Star-Jalsha/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="IN: BANGLA", GP:Amr Colors Bangla HD
-http://12.1.1.1:8082/colorsbangla/INdex.m3u8
+http://12.1.1.1:8082/colorsbangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="IN: CINEMA", GP:Amr Jalsha Movies HD
-http://12.1.1.1:8082/Jalshamovies/INdex.m3u8
+http://12.1.1.1:8082/Jalshamovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SY46rYQ.png" group-title="IN: CINEMA", GP:Amr Zee Bangla CINema HD
-http://12.1.1.1:8082/ZeeBanglacINema/INdex.m3u8
+http://12.1.1.1:8082/ZeeBanglacINema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="IN: HINDI", GP:Amr Sony HD
-http://12.1.1.1:8082/SonyTVHD/INdex.m3u8
+http://12.1.1.1:8082/SonyTVHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="IN: HINDI", GP:Amr Colors HD
-http://12.1.1.1:8082/colorsINdia/INdex.m3u8
+http://12.1.1.1:8082/colorsINdia/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="IN: HINDI", GP:Amr Sony Sab HD
-http://12.1.1.1:8082/Sony_Sab/INdex.m3u8
+http://12.1.1.1:8082/Sony_Sab/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="IN: BOLLYWOOD", GP:Amr Sony Max HD
-http://12.1.1.1:8082/Sony-Max/INdex.m3u8
+http://12.1.1.1:8082/Sony-Max/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="IN: BOLLYWOOD", GP:Amr Star Gold HD
-http://12.1.1.1:8082/StarGold/INdex.m3u8
+http://12.1.1.1:8082/StarGold/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ldXaLJK.png" group-title="IN: BOLLYWOOD", GP:Amr Zee CINema HD
-http://12.1.1.1:8082/ZeeCINemaHD/INdex.m3u8
+http://12.1.1.1:8082/ZeeCINemaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gocnao7.png" group-title="IN: BOLLYWOOD", GP:Amr Bflix Movies
-http://12.1.1.1:8082/bflix/INdex.m3u8
+http://12.1.1.1:8082/bflix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p2Ke0dz.png" group-title="IN: BOLLYWOOD", GP:Amr Wow CINema
-http://12.1.1.1:8082/Wow-CINema/INdex.m3u8
+http://12.1.1.1:8082/Wow-CINema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3i2U8HH.png" group-title="IN: HOLLYWOOD", GP:Amr Sony Pix HD
-http://12.1.1.1:8082/SonyPix/INdex.m3u8
+http://12.1.1.1:8082/SonyPix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png" group-title="IN: HOLLYWOOD", GP:Amr Movies Now HD
-http://12.1.1.1:8082/Movies_Now_2/INdex.m3u8
+http://12.1.1.1:8082/Movies_Now_2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6a7pWRE.png" group-title="IN: SPORTS", GP:Amr Sony Six HD
-http://12.1.1.1:8082/SonySix/INdex.m3u8
+http://12.1.1.1:8082/SonySix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9wyiDjY.png" group-title="IN: SPORTS", GP:Amr SonyTen-1HD
-http://12.1.1.1:8082/Ten1/INdex.m3u8
+http://12.1.1.1:8082/Ten1/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OekeCcA.png" group-title="IN: SPORTS", GP:Amr SonyTen-2HD
-http://12.1.1.1:8082/Ten2/INdex.m3u8
+http://12.1.1.1:8082/Ten2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NBqjr3L.png" group-title="IN: SPORTS", GP:Amr SonyTen-3HD
-http://12.1.1.1:8082/Ten3/INdex.m3u8
+http://12.1.1.1:8082/Ten3/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C7sWOQr.png" group-title="IN: SPORTS", GP:Amr Adsports 1 HD
-http://12.1.1.1:8082/Adsports1/INdex.m3u8
+http://12.1.1.1:8082/Adsports1/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mLgtV9E.png" group-title="IN: SPORTS", GP:Amr Adsports 2 HD
-http://12.1.1.1:8082/Adsports2/INdex.m3u8
+http://12.1.1.1:8082/Adsports2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0WJLtkb.png" group-title="IN: SPORTS", GP:Amr Adsports 3 HD
-http://12.1.1.1:8082/Adsports3/INdex.m3u8
+http://12.1.1.1:8082/Adsports3/video.m3u8
 ==================================================================================================
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oNT3BuT.png" group-title="BD SPORTS", GP:Amr Gazi TV HD
-http://103.136.200.246:8082/Gazi-Tv/INdex.m3u8
+http://103.136.200.246:8082/Gazi-Tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PhIvHMA.png" group-title="BD SPORTS", GP:Amr Tsports HD
-http://103.136.200.246:8082/Local-Sports/INdex.m3u8
+http://103.136.200.246:8082/Local-Sports/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD BANGLA", GP:Amr ANANDO TV
-http://103.136.200.246:8082/anandotv/INdex.m3u8
+http://103.136.200.246:8082/anandotv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="BD BANGLA", GP:Amr ATN BANGLA
-http://103.136.200.246:8082/ATN-Bangla/INdex.m3u8
+http://103.136.200.246:8082/ATN-Bangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HX8SSDA.png" group-title="BD BANGLA", GP:Amr BANGLAVISION
-http://103.136.200.246:8082/BanglaVision/INdex.m3u8
+http://103.136.200.246:8082/BanglaVision/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kDmkexe.png" group-title="BD BANGLA", GP:Amr BIJOY TV
-http://103.136.200.246:8082/BijoyTv/INdex.m3u8
+http://103.136.200.246:8082/BijoyTv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pTJSGtj.png" group-title="BD BANGLA", GP:Amr BOISHAKHI TV
-http://103.136.200.246:8082/Boishakhi/INdex.m3u8
+http://103.136.200.246:8082/Boishakhi/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD BANGLA", GP:Amr CHANNEL I
-http://103.136.200.246:8082/Channel-i/INdex.m3u8
+http://103.136.200.246:8082/Channel-i/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kFqOMtx.png" group-title="BD BANGLA", GP:Amr EKUSEY TV
-http://103.136.200.246:8082/Ekushey-TV/INdex.m3u8
+http://103.136.200.246:8082/Ekushey-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="BD BANGLA", GP:Amr GAAN BANGLA
-http://103.136.200.246:8082/GaanBangla/INdex.m3u8
+http://103.136.200.246:8082/GaanBangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/eP45j9z.png" group-title="BD BANGLA", GP:Amr MOHONA TV
-http://103.136.200.246:8082/MohonaTV/INdex.m3u8
+http://103.136.200.246:8082/MohonaTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWuzjbg.png" group-title="BD BANGLA", GP:Amr MY TV
-http://103.136.200.246:8082/MyTV/INdex.m3u8
+http://103.136.200.246:8082/MyTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2cpHJKq.png" group-title="BD BANGLA", GP:Amr NAGORIK TV
-http://103.136.200.246:8082/Nagorik-TV/INdex.m3u8
+http://103.136.200.246:8082/Nagorik-TV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3usnOla.png" group-title="BD BANGLA", GP:Amr NTV BD
-http://103.136.200.246:8082/Ntv/INdex.m3u8
+http://103.136.200.246:8082/Ntv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/yi5p51T.png" group-title="BD BANGLA", GP:Amr RTV HD
-http://103.136.200.246:8082/RTV/INdex.m3u8
+http://103.136.200.246:8082/RTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fraEjzm.png" group-title="BD BANGLA", GP:Amr SA TV
-http://103.136.200.246:8082/SATV/INdex.m3u8
+http://103.136.200.246:8082/SATV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/v9PqrCG.png" group-title="BD BANGLA", GP:Amr ATN NEW
-http://103.136.200.246:8082/Atn-News/INdex.m3u8
+http://103.136.200.246:8082/Atn-News/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MmhxR5E.png" group-title="BD BANGLA", GP:Amr CHANNEL 24
-http://103.136.200.246:8082/Channel24/INdex.m3u8
+http://103.136.200.246:8082/Channel24/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/djAX8Rc.png" group-title="BD BANGLA", GP:Amr DBC NEWS
-http://103.136.200.246:8082/DBC-NEWS/INdex.m3u8
+http://103.136.200.246:8082/DBC-NEWS/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/i8T9qQs.png" group-title="BD BANGLA", GP:Amr EKATTOR TV
-http://103.136.200.246:8082/Ekattor-tv/INdex.m3u8
+http://103.136.200.246:8082/Ekattor-tv/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FxsW4XI.png" group-title="BD BANGLA", GP:Amr NEWS 24
-http://103.136.200.246:8082/News24bd/INdex.m3u8
+http://103.136.200.246:8082/News24bd/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/18m3T6f.png" group-title="BD BANGLA", GP:Amr SOMOY TV
-http://103.136.200.246:8082/Somoy-TV/INdex.m3u8
+http://103.136.200.246:8082/Somoy-TV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RqJGZfm.png" group-title="IN: BANGLA", GP:Amr Sony Aath
-http://103.136.200.246:8082/Sonyaath/INdex.m3u8
+http://103.136.200.246:8082/Sonyaath/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="IN: BANGLA", GP:Amr Zee Bangla
-http://103.136.200.246:8082/ZeeBanglaHD/INdex.m3u8
+http://103.136.200.246:8082/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="IN: BANGLA", GP:Amr Star Jalsha HD
-http://103.136.200.246:8082/Star-Jalsha/INdex.m3u8
+http://103.136.200.246:8082/Star-Jalsha/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="IN: BANGLA", GP:Amr Colors Bangla HD
-http://103.136.200.246:8082/colorsbangla/INdex.m3u8
+http://103.136.200.246:8082/colorsbangla/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="IN: CINEMA", GP:Amr Jalsha Movies HD
-http://103.136.200.246:8082/Jalshamovies/INdex.m3u8
+http://103.136.200.246:8082/Jalshamovies/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/SY46rYQ.png" group-title="IN: CINEMA", GP:Amr Zee Bangla CINema HD
-http://103.136.200.246:8082/ZeeBanglacINema/INdex.m3u8
+http://103.136.200.246:8082/ZeeBanglacINema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x2qwIpL.png" group-title="IN: HINDI", GP:Amr Sony HD
-http://103.136.200.246:8082/SonyTVHD/INdex.m3u8
+http://103.136.200.246:8082/SonyTVHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="IN: HINDI", GP:Amr Colors HD
-http://103.136.200.246:8082/colorsINdia/INdex.m3u8
+http://103.136.200.246:8082/colorsINdia/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="IN: HINDI", GP:Amr Sony Sab HD
-http://103.136.200.246:8082/Sony_Sab/INdex.m3u8
+http://103.136.200.246:8082/Sony_Sab/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="IN: BOLLYWOOD", GP:Amr Sony Max HD
-http://103.136.200.246:8082/Sony-Max/INdex.m3u8
+http://103.136.200.246:8082/Sony-Max/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="IN: BOLLYWOOD", GP:Amr Star Gold HD
-http://103.136.200.246:8082/StarGold/INdex.m3u8
+http://103.136.200.246:8082/StarGold/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ldXaLJK.png" group-title="IN: BOLLYWOOD", GP:Amr Zee CINema HD
-http://103.136.200.246:8082/ZeeCINemaHD/INdex.m3u8
+http://103.136.200.246:8082/ZeeCINemaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Gocnao7.png" group-title="IN: BOLLYWOOD", GP:Amr Bflix Movies
-http://103.136.200.246:8082/bflix/INdex.m3u8
+http://103.136.200.246:8082/bflix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/p2Ke0dz.png" group-title="IN: BOLLYWOOD", GP:Amr Wow CINema
-http://103.136.200.246:8082/Wow-CINema/INdex.m3u8
+http://103.136.200.246:8082/Wow-CINema/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3i2U8HH.png" group-title="IN: HOLLYWOOD", GP:Amr Sony Pix HD
-http://103.136.200.246:8082/SonyPix/INdex.m3u8
+http://103.136.200.246:8082/SonyPix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mML3WAl.png" group-title="IN: HOLLYWOOD", GP:Amr Movies Now HD
-http://103.136.200.246:8082/Movies_Now_2/INdex.m3u8
+http://103.136.200.246:8082/Movies_Now_2/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6a7pWRE.png" group-title="IN: SPORTS", GP:Amr Sony Six HD
-http://103.136.200.246:8082/SonySix/INdex.m3u8
+http://103.136.200.246:8082/SonySix/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9wyiDjY.png" group-title="IN: SPORTS", GP:Amr SonyTen-1HD
-http://103.136.200.246:8082/Ten1/INdex.m3u8
+http://103.136.200.246:8082/Ten1/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/OekeCcA.png" group-title="IN: SPORTS", GP:Amr SonyTen-2HD
-http://103.136.200.246:8082/Ten2/INdex.m3u8
+http://103.136.200.246:8082/Ten2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/NBqjr3L.png" group-title="IN: SPORTS", GP:Amr SonyTen-3HD
-http://103.136.200.246:8082/Ten3/INdex.m3u8
+http://103.136.200.246:8082/Ten3/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C7sWOQr.png" group-title="IN: SPORTS", GP:Amr Adsports 1 HD
-http://103.136.200.246:8082/Adsports1/INdex.m3u8
+http://103.136.200.246:8082/Adsports1/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mLgtV9E.png" group-title="IN: SPORTS", GP:Amr Adsports 2 HD
-http://103.136.200.246:8082/Adsports2/INdex.m3u8
+http://103.136.200.246:8082/Adsports2/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0WJLtkb.png" group-title="IN: SPORTS", GP:Amr Adsports 3 HD
-http://103.136.200.246:8082/Adsports3/INdex.m3u8
+http://103.136.200.246:8082/Adsports3/video.m3u8
 ==================================================================================================
 
